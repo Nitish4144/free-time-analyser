@@ -1,2 +1,14 @@
-#READ ME
-<br>I am trying to buil an prediction model based on screen time. The model should take in data of screen times of every day and the data includes when each app is used along with the time stamp.  after analysing the data the model should give a shedule which has 1hr slots every day. in these slots the app which has more chance to be used in t hour of the day will be shown along with the most probable time duration it migth be used in that 1hr. Also if the app jas mroe chance to be used  for less than 10 min in that 1hr slot then it will be marked as grey colour or shown witha different font, same goes with apps with more that 50 min of the 1 hr slot shows with  a yellow or light red or black back and white font. 
+# READ ME
+## Initial ideation
+<b> This project is designed to understand your personal app usage patterns and create a smart, predictive schedule of your digital day.</b>
+
+Think of it as a personal assistant that learns your habits. By looking at when you've used different apps in the past, it builds a daily forecast, hour by hour.<br>
+For each one-hour slot, the schedule will show you two things:
+* The app you're most likely to open. 
+* How long you'll probably use it.
+
+## Possible Features
+
+To make the schedule easy to read at a glance, it uses a simple color-code to highlight your patterns:<br>
+* Quick Glances: Any app you're likely to use for less than 10 minutes is shown in a subtle gray font, representing casual use.
+* Deep Dives: Any app predicted to hold your attention for more than 50 minutes is highlighted with a bold color, showing you when you're in a state of deep focus (or distraction!)."
