@@ -1,0 +1,101 @@
+Person,Date,Start Time,End Time,Activity,Duration (minutes),Notes
+P1,2025-10-01,08:00,09:00,Coding,60,Auto-generated coding activity
+P1,2025-10-01,22:00,22:30,Gaming,30,Auto-generated gaming activity
+P1,2025-10-01,08:15,09:15,Social Media,60,Auto-generated social media activity
+P1,2025-10-01,18:45,19:45,Social Media,60,Auto-generated social media activity
+P1,2025-10-01,12:45,13:30,TV,45,Auto-generated tv activity
+P1,2025-10-01,08:45,09:30,Social Media,45,Auto-generated social media activity
+P1,2025-10-02,21:00,22:00,Meditation,60,Auto-generated meditation activity
+P1,2025-10-02,21:00,22:00,Gaming,60,Auto-generated gaming activity
+P1,2025-10-02,22:15,23:15,Gaming,60,Auto-generated gaming activity
+P1,2025-10-02,20:45,21:45,Gaming,60,Auto-generated gaming activity
+P1,2025-10-02,18:15,18:45,Coding,30,Auto-generated coding activity
+P1,2025-10-02,18:30,19:00,Social Media,30,Auto-generated social media activity
+P1,2025-10-03,10:45,12:15,Reading,90,Auto-generated reading activity
+P1,2025-10-03,10:00,11:00,Reading,60,Auto-generated reading activity
+P1,2025-10-03,21:45,22:30,Cooking,45,Auto-generated cooking activity
+P1,2025-10-03,09:30,10:15,Exercise,45,Auto-generated exercise activity
+P1,2025-10-03,14:30,15:30,Walking,60,Auto-generated walking activity
+P1,2025-10-04,20:30,22:00,Reading,90,Auto-generated reading activity
+P1,2025-10-04,17:45,18:30,TV,45,Auto-generated tv activity
+P1,2025-10-04,20:30,21:30,Exercise,60,Auto-generated exercise activity
+P1,2025-10-05,14:30,16:00,TV,90,Auto-generated tv activity
+P1,2025-10-05,19:30,20:30,Exercise,60,Auto-generated exercise activity
+P1,2025-10-05,20:15,20:45,Meditation,30,Auto-generated meditation activity
+P1,2025-10-06,19:30,20:15,Gaming,45,Auto-generated gaming activity
+P1,2025-10-06,14:00,15:30,Exercise,90,Auto-generated exercise activity
+P1,2025-10-06,13:15,14:00,Cooking,45,Auto-generated cooking activity
+P1,2025-10-06,07:00,08:30,Walking,90,Auto-generated walking activity
+P1,2025-10-07,18:45,19:45,Cooking,60,Auto-generated cooking activity
+P1,2025-10-07,09:00,10:30,Exercise,90,Auto-generated exercise activity
+P1,2025-10-07,21:15,22:45,TV,90,Auto-generated tv activity
+P1,2025-10-07,17:45,18:45,Gaming,60,Auto-generated gaming activity
+P2,2025-10-01,09:15,09:45,Gaming,30,Auto-generated gaming activity
+P2,2025-10-01,09:00,09:45,Gaming,45,Auto-generated gaming activity
+P2,2025-10-01,12:15,13:15,Reading,60,Auto-generated reading activity
+P2,2025-10-01,13:30,14:15,Exercise,45,Auto-generated exercise activity
+P2,2025-10-01,16:00,16:45,Walking,45,Auto-generated walking activity
+P2,2025-10-02,13:00,13:45,Coding,45,Auto-generated coding activity
+P2,2025-10-02,10:00,11:00,Coding,60,Auto-generated coding activity
+P2,2025-10-02,11:00,12:30,Cooking,90,Auto-generated cooking activity
+P2,2025-10-02,08:45,10:15,Walking,90,Auto-generated walking activity
+P2,2025-10-02,06:00,06:30,Social Media,30,Auto-generated social media activity
+P2,2025-10-02,17:45,18:45,Group Study,60,Auto-generated group study activity
+P2,2025-10-03,16:45,18:15,Group Study,90,Auto-generated group study activity
+P2,2025-10-03,19:45,20:30,Social Media,45,Auto-generated social media activity
+P2,2025-10-03,17:30,18:30,Cooking,60,Auto-generated cooking activity
+P2,2025-10-03,08:45,09:30,Coding,45,Auto-generated coding activity
+P2,2025-10-04,14:30,15:00,Exercise,30,Auto-generated exercise activity
+P2,2025-10-04,10:30,11:15,Group Study,45,Auto-generated group study activity
+P2,2025-10-04,11:30,13:00,Coding,90,Auto-generated coding activity
+P2,2025-10-05,19:00,19:30,Gaming,30,Auto-generated gaming activity
+P2,2025-10-05,19:45,20:15,Cooking,30,Auto-generated cooking activity
+P2,2025-10-05,08:30,09:30,Group Study,60,Auto-generated group study activity
+P2,2025-10-05,22:00,23:00,TV,60,Auto-generated tv activity
+P2,2025-10-06,12:00,12:45,Cooking,45,Auto-generated cooking activity
+P2,2025-10-06,17:15,17:45,Cooking,30,Auto-generated cooking activity
+P2,2025-10-06,08:15,08:45,Social Media,30,Auto-generated social media activity
+P2,2025-10-06,16:15,17:15,Exercise,60,Auto-generated exercise activity
+P2,2025-10-07,12:00,12:30,TV,30,Auto-generated tv activity
+P2,2025-10-07,14:45,15:30,Group Study,45,Auto-generated group study activity
+P2,2025-10-07,10:00,10:30,Reading,30,Auto-generated reading activity
+P3,2025-10-01,14:45,15:45,Social Media,60,Auto-generated social media activity
+P3,2025-10-01,11:45,12:30,Coding,45,Auto-generated coding activity
+P3,2025-10-01,17:45,18:15,Gaming,30,Auto-generated gaming activity
+P3,2025-10-01,21:15,21:45,Walking,30,Auto-generated walking activity
+P3,2025-10-02,21:15,22:15,Walking,60,Auto-generated walking activity
+P3,2025-10-02,17:00,18:00,TV,60,Auto-generated tv activity
+P3,2025-10-02,14:45,15:15,Group Study,30,Auto-generated group study activity
+P3,2025-10-02,15:45,16:15,Walking,30,Auto-generated walking activity
+P3,2025-10-02,20:30,21:30,Cooking,60,Auto-generated cooking activity
+P3,2025-10-03,15:00,16:30,Coding,90,Auto-generated coding activity
+P3,2025-10-03,19:45,20:45,Group Study,60,Auto-generated group study activity
+P3,2025-10-03,10:00,10:45,Cooking,45,Auto-generated cooking activity
+P3,2025-10-03,12:15,13:45,Social Media,90,Auto-generated social media activity
+P3,2025-10-03,06:45,07:30,Gaming,45,Auto-generated gaming activity
+P3,2025-10-03,22:30,23:59,Social Media,90,Auto-generated social media activity
+P3,2025-10-03,08:15,09:45,Reading,90,Auto-generated reading activity
+P3,2025-10-04,07:45,08:15,Cooking,30,Auto-generated cooking activity
+P3,2025-10-04,21:00,21:30,Exercise,30,Auto-generated exercise activity
+P3,2025-10-04,07:15,08:00,Social Media,45,Auto-generated social media activity
+P3,2025-10-04,17:45,18:30,Group Study,45,Auto-generated group study activity
+P3,2025-10-04,17:45,18:45,TV,60,Auto-generated tv activity
+P3,2025-10-04,13:45,14:30,Gaming,45,Auto-generated gaming activity
+P3,2025-10-04,06:15,07:45,Meditation,90,Auto-generated meditation activity
+P3,2025-10-05,06:15,06:45,Reading,30,Auto-generated reading activity
+P3,2025-10-05,12:15,12:45,Coding,30,Auto-generated coding activity
+P3,2025-10-05,06:45,07:30,Social Media,45,Auto-generated social media activity
+P3,2025-10-05,18:15,19:15,Gaming,60,Auto-generated gaming activity
+P3,2025-10-05,13:00,14:00,Meditation,60,Auto-generated meditation activity
+P3,2025-10-05,12:00,12:45,Reading,45,Auto-generated reading activity
+P3,2025-10-06,15:15,15:45,Exercise,30,Auto-generated exercise activity
+P3,2025-10-06,20:30,21:30,Meditation,60,Auto-generated meditation activity
+P3,2025-10-06,13:00,14:30,TV,90,Auto-generated tv activity
+P3,2025-10-06,18:30,20:00,Gaming,90,Auto-generated gaming activity
+P3,2025-10-06,15:00,16:00,Meditation,60,Auto-generated meditation activity
+P3,2025-10-06,16:00,16:45,Reading,45,Auto-generated reading activity
+P3,2025-10-06,22:00,22:45,Meditation,45,Auto-generated meditation activity
+P3,2025-10-07,06:00,07:30,Exercise,90,Auto-generated exercise activity
+P3,2025-10-07,15:45,17:15,Group Study,90,Auto-generated group study activity
+P3,2025-10-07,16:30,18:00,Social Media,90,Auto-generated social media activity
+P3,2025-10-07,06:45,07:45,Group Study,60,Auto-generated group study activity
